@@ -1,0 +1,11 @@
+{
+  "name": "spa-seo",
+  "version": "1.0.0",
+  "description": "使用``解决",
+  "main": "express_spider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
